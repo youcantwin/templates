@@ -1,5 +1,5 @@
 {
-  "name": "shapeshifter-dev",
+  "name": "replace-me-dev",
   "image": "mcr.microsoft.com/devcontainers/javascript-node:16-bullseye",
   "customizations": {
     "vscode": {

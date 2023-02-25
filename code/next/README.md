@@ -1,3 +1,15 @@
+# Setup
+
+## Set-up typing for CSS
+https://www.npmjs.com/package/typescript-plugin-css-modules#visual-studio-code
+- Go to a Typescript file
+- Command + Shift + P
+- Select: "TypeScript: Select TypeScript Version" command
+- Select: "Use Workspace Version"
+
+
+
+
 # Next.js + Jest
 
 This example shows how to configure Jest to work with Next.js.
