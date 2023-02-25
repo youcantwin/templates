@@ -1,0 +1,17 @@
+{
+  "name": "shapeshifter-dev",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:16-bullseye",
+  "customizations": {
+    "vscode": {
+      "settings": {},
+      "extensions": [
+        "dbaeumer.vscode-eslint",
+        "clinyong.vscode-css-modules",
+        "ms-vscode.live-server",
+        "esbenp.prettier-vscode",
+        "Orta.vscode-jest"
+      ]
+    }
+  },
+  "forwardPorts": [3000]
+}
